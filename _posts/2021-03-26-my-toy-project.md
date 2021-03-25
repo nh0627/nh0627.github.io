@@ -35,7 +35,7 @@ First of all, in the first version, I decided to make features simply to search,
 `Semantic UI`: I can make UI with CSS somehow but I am aware that I am not that good at making good and clean UI design. Regardless of design, the library also offer lots of good features to make my app in handy way!
 
 #### ETC.
-I was thinking about how to make the required business logic for sorting and filtering. Should I just make API calls with a query, like SQL queries provided by Spreadsheet, or just developing them by JavaScript myself...? I was learning data structures and algorithms these days, so I decided to develop them myself. Therefore, I am using the API only to get the whole data list, and the business logic for search/filtering/sorting for basic listing features is currently handled by *reducers* (with my not-that-efficient-function🤔).
+I was thinking about how to make the required business logic for sorting and filtering. Should I just make API calls with a query, like SQL queries provided by Spreadsheet, or just developing them by JavaScript myself...? I was learning data structures and algorithms these days, so I decided to develop them myself. Therefore, I am using the API only to get the whole data list, and the business logic for search/filtering/sorting for basic listing features is currently handled by *reducers* (with my-not-that-efficient-functions🤔).
 
 ## Things to update
 * First of all, I think there will be a better algorithm to handle the business logic related to listing. I need to study more to have a better understanding of data structure and algorithm.
