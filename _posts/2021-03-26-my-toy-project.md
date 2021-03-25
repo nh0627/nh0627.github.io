@@ -22,7 +22,7 @@ First of all, in the first version, I decided to make features simply to search,
 * EDR (Simple😭)
 ![ERD](/assets/images/erd-mdk-v1.JPG)
 
-### Chitchat about the project spec
+### Chitchat about the project
 > Since it was a non-profit website, I had to focus on *free of charge* servies.
 
 #### Datasource
