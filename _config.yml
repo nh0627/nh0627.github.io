@@ -1,11 +1,9 @@
 # Site settings
-title: NahyeonCodingLog
+title: NHCodingLog
 email: naboee0627@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   My records diving into coding.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jekyll
+github_username: nh0627
 
 # Build settings
 markdown: kramdown
@@ -35,6 +33,9 @@ defaults:
       comments: false
       share: false
       related: false
+      toc: true
+      toc_sticky: true
+      toc_label: Contents 
   # _pages
   - scope:
       path: ""
@@ -46,14 +47,11 @@ defaults:
 # Search
 search: true
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+
+# Files
+include:
+  - _pages
