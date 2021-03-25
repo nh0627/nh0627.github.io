@@ -1,5 +1,5 @@
 # Site settings
-title: NHCodingLog
+title: NahyeonCodingLog
 email: naboee0627@gmail.com
 description: >-
   My records diving into coding.
@@ -35,7 +35,7 @@ defaults:
       related: false
       toc: true
       toc_sticky: true
-      toc_label: Contents 
+      toc_label: On this post 
   # _pages
   - scope:
       path: ""
