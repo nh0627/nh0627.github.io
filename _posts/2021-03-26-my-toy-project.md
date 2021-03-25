@@ -10,7 +10,7 @@ last_modified_at: '2021-03-25 14:00:00 +08000'
 ![Screenshot](/assets/images/screenshot-mdk-v1.JPG)
 [Link to the website](https://my-dear-kukuclara.netlify.app/)
 
-I have a kind of minor hobby, which is collecting vintage-style PVC dolls (the communities and users were active around 2016-7 but getting smaller now😥). For me, it was pretty difficult to find information about collection unless I dig it up in the community forums by myself. So I thought it would be nice to have a sort of encyclopedia site, so I came up with this project.
+I have a kind of minor hobby, which is collecting vintage-style PVC dolls (the communities and users were active around 2016-7 but getting smaller now😥). For me, it was pretty difficult to find information about collection unless I dig it up in the community forums by myself. So I thought it would be nice to have a sort of wikipedia, so I came up with this project.
 
 ## Project Requirements
 First of all, in the first version, I decided to make features simply to search, filter, and sort the list of collections.
