@@ -3,6 +3,10 @@ title: My toy project v1.0 - My Dear KukuClara
 layout: single
 categories:
 - Toy Project
+tags:
+- toy project
+- react
+- javascript
 last_modified_at: '2021-03-25 14:00:00 +08000'
 ---
 > A small talk about my toy project
