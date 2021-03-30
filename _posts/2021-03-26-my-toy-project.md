@@ -20,7 +20,7 @@ I have a kind of minor hobby, which is collecting vintage-style PVC dolls (the c
 First of all, in the first version, I decided to make features simply to search, filter, and sort the list of collections.
 
 ## Project Spec
-* Duration: 3 ~ 4 weeks
+* Duration: 3 ~ 4 weeks (I learned React with this project, so bit slow)
 * Main language/framework : React, Redux, Semantic UI
 * Datasource: Google Spreadsheet API (but all the data typed by myself😂)
 * EDR (Simple😭)
