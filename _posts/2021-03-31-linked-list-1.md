@@ -18,7 +18,7 @@ Unlike an array([]), elements of a linked list are not managed with continuous i
 ## Array vs. Linked list
 It is easier in a linked list to insert/delete data compared to an array. By the way, the linked list without an index usually slows down the speed of searching because access to certain elements requires sequential searching. In other words, the insertion/deletion of the first data is performed within the time of O(1) in a linked list. When we insert or delete data in an array at a specific index, we have to move all the rest of the data to the back from the point, but in the case of a linked list, we do not have to do it. However, the addition/deletion of data at one point rather than the first one takes time to retrieve the data, so it has O(n) performance.
 
-### Singly Linked List
+## Singly Linked List
 It is the simplest form of a linked list only with reference to the following nodes.
 ```java
 public class SinglyLinkedList {
