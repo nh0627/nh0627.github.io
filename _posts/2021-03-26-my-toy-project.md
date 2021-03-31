@@ -38,7 +38,7 @@ First of all, in the first version, I decided to make simple features to search,
 #### UI Framework
 `Semantic UI`: I can make UI with CSS somehow but I am aware that I am not that good at making good UI design. Regardless of design, the library also offer lots of good features to make my app in handy way!
 
-#### Business Logic.
+#### Business Logic
 I was thinking about how to make the business logics for sorting and filtering. Should I just make API calls with a query provided by Spreadsheet, or just developing them by JavaScript myself...? I was learning data structures and algorithms these days, so I decided to develop them myself. Therefore, I am using the API only to get the whole data list, and the business logic for search/filtering/sorting for basic listing features is currently handled by *reducers* (with my functions🤔... I want to improve it with less complexity).
 
 ## Things to update

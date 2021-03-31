@@ -9,7 +9,7 @@ tags:
 - data structure
 last_modified_at: '2021-03-29 14:00:00 +08000'
 ---
-> Learning stack and queue in Java with [udemy course - Practical Data Structures & Algorithms in Java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
+> Learning stack and queue in Java with [Udemy course - Practical Data Structures & Algorithms in Java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
 
 ## Stack
 - FILO (First In Last Out)
