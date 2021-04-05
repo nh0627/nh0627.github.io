@@ -12,6 +12,8 @@ last_modified_at: '2021-03-31 14:00:00 +08000'
 
 > Learning linked lists in Java with [Udemy course - Practical Data Structures & Algorithms in Java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
 
+## Linked list
+
 Unlike an array([]), elements of a linked list are not managed with continuous indexes. A linked list consists of nodes, and each node has data and a reference(link) to the next node. 
 ![Linked list](/assets/images/linked-list.JPG)
 
