@@ -5,7 +5,6 @@ categories:
 - Data Structure
 tags:
 - java
-- programming basics
 - data structure
 last_modified_at: '2021-03-31 14:00:00 +08000'
 ---

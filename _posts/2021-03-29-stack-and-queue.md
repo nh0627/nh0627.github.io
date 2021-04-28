@@ -5,7 +5,6 @@ categories:
 - Data Structure
 tags:
 - java
-- programming basics
 - data structure
 last_modified_at: '2021-03-29 14:00:00 +08000'
 ---
@@ -129,5 +128,5 @@ public class Queue {
 }
 ```
 
-### Source
+### Sources
 [Practical Data Structures & Algorithms in Java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
