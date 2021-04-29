@@ -70,7 +70,7 @@ function getCounter() {
 console.log(getCounter()); // 10
 ```
 
-### Sources
+## Sources
 [Udemy course - JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 [Poiemaweb](https://poiemaweb.com/js-scope)
 [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-variable-scope/)

@@ -66,6 +66,6 @@ public class SinglyLinkedList {
 }
 ```
 
-### Sources
+## Sources
 [Practical Data Structures & Algorithms in Java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
 [나무위키](https://namu.wiki/w/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8)
