@@ -71,7 +71,7 @@ bigBrother(); // no me!
 ```
 
 ### Sources
-[Udemy course - JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/learn/lecture/13772862#overview)
+[Udemy course - JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 [Poiemaweb](https://poiemaweb.com/js-execution-context)
 [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-execution-context/)
 [Parameter vs. Arguments](https://stackoverflow.com/questions/1788923/parameter-vs-argument)
