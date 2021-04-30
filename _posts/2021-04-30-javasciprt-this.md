@@ -94,8 +94,8 @@ To fix this, we can use `bind()`, `apply()`, `call()` to specify an owner of the
 ```js
 // still continued with the above code
 
-var sayName = obj1.sayName.bind(obj1);
-sayName(); // Lee
+var sayName2 = obj1.sayName.bind(obj1);
+sayName2(); // Lee
 ```
 
 ## Constructor Invocation
