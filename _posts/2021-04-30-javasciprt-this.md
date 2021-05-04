@@ -98,7 +98,7 @@ var sayName2 = obj1.sayName.bind(obj1);
 sayName2(); // Lee
 ```
 
-## Constructor Invocation
+## Constructor invocation
 In JavaScript, if a normal function is called with `new` operator, it behaves as a constructor function. JavaScript creates a new object and sets `this` to the newly created object. To avoid a confusion, a constructor function is named by capitalizing the first character.
 
 ```js
